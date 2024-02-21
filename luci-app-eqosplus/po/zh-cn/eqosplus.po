@@ -1,4 +1,3 @@
-
 msgid "Eqosplus"
 msgstr "定时限速"
 
